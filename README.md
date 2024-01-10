@@ -2,18 +2,17 @@
 
 <img src="https://64.media.tumblr.com/4e67f2f2d4d2fcab4e8f6a9e5ccb3588/tumblr_ommxx7WK3p1tk7m95o1_540.gifv">
 
-Bem, vamos! Meu nome é Camilo Verner. Estou muito interessado em uma carreira em segurança cibernética. Tudo começou na minha infância, quando meu pai comprou um computador para trabalhar. Comecei a brincar com ele, clicando, digitando e depois comecei a instalar jogos para jogar.
+Prazer! Meu nome é Camilo Verner. Trainee de Sistema na Minsait Indra Company e Graduando em Segurança da Informação pela FAM.
 
-Desde então não parei de jogar e de ser obcecado por tecnologia.
+No momento estou estudadando Linux e Kubernetes.
 
-Mas foi só em 2022 que percebi que queria entender um pouco mais de tecnologia e quem sabe até trabalhar com ela.
-
-Gosto de praticar atividades físicas, ir à academia e sempre experimentar um esporte novo.
-
+Interresses em Linux, Kubernetes, DevSecOps e Cybersecurity.
 Sou apaixonado por estudar astronomia e ciências em geral.
 
-Por isso, tenho como objetivo contribuir de alguma forma para o desenvolvimento do nosso planeta.
+Tenho como objetivo contribuir de alguma forma para o desenvolvimento do nosso planeta.
 E acho que o melhor momento para fazer isso é agora! Estudar, conhecer pessoas, sair da zona de conforto e fazer projetos e colocar ideias em prática porque isso muda o mundo.
+
+Disponivel para Projetos pessoais e que contribuam para a sociedade. 
 
 
 
