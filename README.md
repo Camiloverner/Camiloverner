@@ -4,7 +4,7 @@
 
 Prazer! Meu nome é Camilo Verner. Trainee de Sistema na Minsait Indra Company e Graduando em Segurança da Informação pela FAM.
 
-No momento estou estudadando Linux e Prometheus.
+No momento estou estudando Linux e Prometheus.
 
 Interresses em Linux, Kubernetes, DevSecOps e Cybersecurity.
 Sou apaixonado por estudar astronomia e ciências em geral.
