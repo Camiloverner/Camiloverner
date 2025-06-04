@@ -2,7 +2,7 @@
 
 <img src="https://64.media.tumblr.com/4e67f2f2d4d2fcab4e8f6a9e5ccb3588/tumblr_ommxx7WK3p1tk7m95o1_540.gifv">
 
-Prazer! Meu nome é Camilo Verner. Trainee de Sistema na Minsait Indra Company e Graduando em Segurança da Informação pela FAM.
+Prazer! Meu nome é Camilo Verner. Trainee de Sistema na Minsait Indra Company e formado em Segurança da Informação pela FAM.
 
 No momento estou estudando Kubernetes e Azure Pipelines.
 
